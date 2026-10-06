@@ -1,5 +1,9 @@
 modules = ["nodejs-24", "python-base-3.13"]
 
+[[ports]]
+localPort = 5000
+externalPort = 80
+
 [deployment]
 router = "application"
 deploymentTarget = "autoscale"
