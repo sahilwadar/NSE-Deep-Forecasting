@@ -1,0 +1,8 @@
+streamlit>=1.40,<2.0
+tensorflow>=2.20,<2.21
+pandas>=2.2.3,<3.0
+numpy>=2.0,<2.2
+scikit-learn>=1.6,<2.0
+plotly>=5.24,<7.0
+yfinance>=0.2.66,<1.0
+joblib>=1.4,<2.0
